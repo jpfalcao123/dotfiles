@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = falcao.j@northeastern.edu
+	name = Joao Pedro Falcao
